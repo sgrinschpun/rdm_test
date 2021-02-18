@@ -1,17 +1,22 @@
 {
-    "creators": [
+  "title": "test_title", 
+  "description":"test_description",
+  "license":"test",
+  "version": "v0.1", 
+  "upload_type": "dataset",
+  "publication_date": "2021-02-18",
+  "access_right": "closed", 
+  "creators": [
       {
-        "affiliation": "",
-        "name": "",
-        "orcid": ""
+        "affiliation": "IFAE",
+        "name": "Grinschpun, Sebastián",
+        "orcid": "/0000-0002-2387-1891"
       }
     ],
-    "keywords": [
-      "",
-      "",
-      ""
+    "related_identifiers": [
     ],
-    "license":"",
-    "upload_type": ""
+    "keywords": [
+      "test1",
+      "test2"
+    ]
   }
-  
